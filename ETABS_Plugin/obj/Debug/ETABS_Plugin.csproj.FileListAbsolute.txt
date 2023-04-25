@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\bin\Debug\ETABS_Plugin.dll
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\bin\Debug\ETABS_Plugin.pdb
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\bin\Debug\ETABSv1.dll
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\obj\Debug\ETABS_Plugin.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\obj\Debug\ETABS_Plugin.Form1.resources
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\obj\Debug\ETABS_Plugin.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\obj\Debug\ETABS_Plugin.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\obj\Debug\ETABS_Plugin.csproj.CopyComplete
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\obj\Debug\ETABS_Plugin.dll
+C:\Users\georg\source\repos\ETABS_Plugin\ETABS_Plugin\obj\Debug\ETABS_Plugin.pdb
